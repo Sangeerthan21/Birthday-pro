@@ -1,0 +1,11 @@
+Ram = input("Enter Ram's birthaday : ")
+Suman = input("Enter Suman's birthaday : ")
+Ravi = input("Enter Ravi's birthaday : ")
+Pavit = input("Enter Pavit's birthaday : ")
+Krish = input("Enter Krish's birthaday : ")
+
+print("Ram's birthday is on", Ram)
+print("Suman's birthday is on", Suman)
+print("Ravi's birthday is on", Ravi)
+print("Pavit's birthday is on", Pavit)
+print("Krish's birthday is on", Krish)
